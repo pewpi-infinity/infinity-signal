@@ -1,0 +1,20 @@
+{
+  "machine": "infinity-signal",
+  "title": "Infinity Signal",
+  "emoji": "\ud83d\udce1",
+  "purpose": "Cross-repo communication. Bismuth signal bounces data between repos as persistent memory.",
+  "tools": [
+    "Signal Broadcast",
+    "Bounce Tracker",
+    "Repo Ping",
+    "Network Map"
+  ],
+  "color": "#ff9800",
+  "network": "infinity-forge",
+  "connections": [
+    "infinity-crown-index",
+    "infinity-tools",
+    "smug_look",
+    "mongoose.os"
+  ]
+}
